@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+### I'm planning how I introduce my profile.. 🤔
 <!--
 **NycolasDarosci/NycolasDarosci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
